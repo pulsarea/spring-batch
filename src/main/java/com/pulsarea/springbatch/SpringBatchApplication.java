@@ -1,4 +1,4 @@
-package com.pulsarea.springbatch.configuration;
+package com.pulsarea.springbatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
